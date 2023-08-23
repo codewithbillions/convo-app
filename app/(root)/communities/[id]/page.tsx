@@ -4,7 +4,7 @@ import { currentUser } from "@clerk/nextjs";
 import { communityTabs } from "@/constants";
 
 import UserCard from "@/components/cards/UserCard";
-import ConvoTab from "@/components/shared/ConvoTab";
+import ConvosTab from "@/components/shared/ConvoTab";
 import ProfileHeader from "@/components/shared/ProfileHeader";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
